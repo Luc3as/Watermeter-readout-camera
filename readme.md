@@ -59,3 +59,13 @@ I used Google Colab so I didn't have to spend single minute by installing python
 Here is modified all in one jupyter notebook with some self explanating code snippets I believe. At the end, you should have saved h5 file which you can use in /configuration/neuralnets folder, and edit the config file to use this new model. 
 
 [Train_picture_classification.ipynb](./files/Train_picture_classification.ipynb)
+
+
+### If You liked my work, You can buy me a coffee :)
+
+<a class="" target="_blank" href="https://www.buymeacoffee.com/luc3as"><img src="https://lukasporubcan.sk/images/buymeacoffee.png" alt="Buy Me A Coffee" style="max-width: 217px !important;"></a>
+
+### Or send some crypto
+
+<a class="" target="_blank" href="https://lukasporubcan.sk/donate"><img src="https://lukasporubcan.sk/images/donatebitcoin.png" alt="Donate Bitcoin" style="max-width: 217px !important;"></a>	
+			
